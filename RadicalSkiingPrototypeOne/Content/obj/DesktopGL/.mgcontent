@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/stardew1920x1080.png</File>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/snow_tile_64x64.png</File>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/tree_log_64x64.png</File>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/arrow_64x64.png</File>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/tree.png</File>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/blockage64x12.png</File>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/skier_64x64.png</File>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/skier_head_64x64.png</File>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/skier64x96.png</File>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/skiis64x96.png</File>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/Tilemap.png</File>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/gravel_particle_8x8.png</File>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/snow_particle_8x8.png</File>
+    <File>C:/Users/Shubham/source/repos/RadicalSkiingPrototypeOne/RadicalSkiingPrototypeOne/Content/Sprites/path_32x32.png</File>
+  </SourceFiles>
+</SourceFileCollection>
